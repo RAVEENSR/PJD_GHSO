@@ -100,7 +100,7 @@
 - Prediction module
 	- The module using a selected model predicts identities of randomly selected pairs of users. 
 		- This process is time-comsuming if the number of pairs is large, so, by default,
-			only 10000 pairs (100 users for each) are computed. 
+			only 50000 pairs are computed. 
 	- Tool:
 		- predict/predict.py
 		- predict/writePredicted.py

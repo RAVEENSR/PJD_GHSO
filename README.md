@@ -3,7 +3,7 @@
 * Copyright (c) 2016 Takahiro Komamizu
 * License: CC-BY-SA-4.0
 * Author homepage: https://takacomaprofile.wordpress.com/
-* Resaerch paper > dx.doi.org/10.18293/SEKE2017-109 (to appear)
+* Resaerch paper > http://dx.doi.org/10.18293/SEKE2017-109 (to appear)
 * Please cite
 ```
 Takahiro Komamizu, Yasuhiro Hayase, Toshiyuki Amagasa, Hiroyuki Kitagawa, 

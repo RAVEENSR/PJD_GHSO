@@ -3,13 +3,13 @@
 * Copyright (c) 2016 Takahiro Komamizu
 * License: CC-BY-SA-4.0
 * Author homepage: https://takacomaprofile.wordpress.com/
+* Resaerch paper > dx.doi.org/10.18293/SEKE2017-109 (to appear)
 * Please cite
 ```
 Takahiro Komamizu, Yasuhiro Hayase, Toshiyuki Amagasa, Hiroyuki Kitagawa, 
 “Exploring Identical Users on GitHub and Stack Overflow”, 
 in Proc. the 29th International Conference on Software Engineering and Knowledge Engineering (SEKE 2017), 
 pp., Pittsburgh, USA, July 5-7, 2017
-DOI: dx.doi.org/10.18293/SEKE2017-109 (to appear)
 ```
 
 ## Data 

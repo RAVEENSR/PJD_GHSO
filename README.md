@@ -1,6 +1,6 @@
 # Probabilistic Joint Dataset of GitHub and Stack Overflow
 
-* Copyright (c) 2016 Takahiro Komamizu
+* Copyright (c) 2017 Takahiro Komamizu
 * License: CC-BY-SA-4.0
 * Author homepage: https://takacomaprofile.wordpress.com/
 * Resaerch paper > http://dx.doi.org/10.18293/SEKE2017-109 (to appear)

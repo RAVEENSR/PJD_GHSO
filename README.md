@@ -9,7 +9,7 @@
 Takahiro Komamizu, Yasuhiro Hayase, Toshiyuki Amagasa, Hiroyuki Kitagawa, 
 “Exploring Identical Users on GitHub and Stack Overflow”, 
 in Proc. the 29th International Conference on Software Engineering and Knowledge Engineering (SEKE 2017), 
-pp., Pittsburgh, USA, July 5-7, 2017
+pp.584-589, Pittsburgh, USA, July 5-7, 2017
 ```
 
 ## Data 

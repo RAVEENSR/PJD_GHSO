@@ -2,7 +2,7 @@
 
 * Copyright (c) 2017 Takahiro Komamizu
 * License: CC-BY-SA-4.0
-* Author homepage: https://takacomaprofile.wordpress.com/
+* [Author homepage](http://taka-coma.pro/)
 * Resaerch paper > http://dx.doi.org/10.18293/SEKE2017-109 (to appear)
 * Please cite
 ```
